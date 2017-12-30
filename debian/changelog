@@ -1,3 +1,9 @@
+samsung-tools (2.3.2-1) bionic; urgency=medium
+
+  * Use plain versioning in debian/changelog
+
+ -- Mystic-Mirage <mm@revo>  Sat, 30 Dec 2017 21:36:31 +0200
+
 samsung-tools (2.3.2~ppa1~loms~artful) artful; urgency=medium
 
   * Add python-dbus dependency
